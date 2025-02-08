@@ -1,6 +1,6 @@
 # DEEPSEEK_TG
 
-DEEPSEEKTTG 是一个基于python编写的 Telegram 机器人。本人只在硅基流动平台使用deepseekv3测试其可用性。Demo： @kamikibot
+DEEPSEEKTTG 是一个基于python编写的 Telegram 机器人。本人只在硅基流动平台使用deepseekv3测试其可用性。Demo： t.me/kamikibot
 
 ## checklist
 
